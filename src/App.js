@@ -9,11 +9,12 @@ export default function App () {
     return (
         // <h1>test</h1>
         <main>
-                {/* <h1>Test 2</h1> */}
+            <div className="card">
                 <Info />
                 <About />
                 <Interests />
                 <Footer />
+              </div>
         </main>
     )
 }
