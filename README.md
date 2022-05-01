@@ -9,6 +9,8 @@ A simple react project with a static page showing a "business card" with informa
 2. CSS
 3. React icons
 
+## System Requirements
+This project requires `npm` to build and run. 
 
 ## Running the project
 * Download the repo by opening the terminal and typing in 
