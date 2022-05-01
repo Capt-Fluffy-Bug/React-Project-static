@@ -4,13 +4,7 @@
 
 body {
   margin: 0;
-  max-height: 100vh;
-}
-
-span {
-  margin: 0;
-  padding: 0;
-}
+} 
 
 main {
   background: #23252C;
@@ -25,8 +19,6 @@ main {
   padding-top: 44px;
   padding-bottom: 44px;
 
-  flex-basis: auto;
-
 }
 
 
@@ -38,6 +30,8 @@ main {
   
   background-color: #1A1B21;
   border-radius: 10px 10px 10px 10px;
+
+  max-width: min-content; /* fixes the error where the content spans the entire screen on mobile.*/
 }
 
 /*
