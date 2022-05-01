@@ -8,7 +8,7 @@ export default function Info() {
             <img className="image" src={require("../images/batman.png")}/>
             <div className="info">
                 <p className="name">The Batman</p>
-                <p className="title">JL Founder</p>
+                <p className="info--title">JL Founder</p>
                 <p className="email">batman@batmail.com</p>
                 <div className="buttons">
                     
