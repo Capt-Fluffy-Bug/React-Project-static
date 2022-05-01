@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/React-Project-static/static/css/main.2819f733.css",
+    "main.css": "/React-Project-static/static/css/main.7eb5a222.css",
     "main.js": "/React-Project-static/static/js/main.9b91ff03.js",
     "static/js/787.4b1552e3.chunk.js": "/React-Project-static/static/js/787.4b1552e3.chunk.js",
     "static/media/batman.png": "/React-Project-static/static/media/batman.135397a4152fd4de4a94.png",
     "index.html": "/React-Project-static/index.html",
-    "main.2819f733.css.map": "/React-Project-static/static/css/main.2819f733.css.map",
+    "main.7eb5a222.css.map": "/React-Project-static/static/css/main.7eb5a222.css.map",
     "main.9b91ff03.js.map": "/React-Project-static/static/js/main.9b91ff03.js.map",
     "787.4b1552e3.chunk.js.map": "/React-Project-static/static/js/787.4b1552e3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2819f733.css",
+    "static/css/main.7eb5a222.css",
     "static/js/main.9b91ff03.js"
   ]
 }
