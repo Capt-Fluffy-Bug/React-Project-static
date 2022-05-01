@@ -2,6 +2,7 @@ import React from "react";
 import EmailIcon from "@mui/icons-material/Email";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import {MdEmail} from "react-icons/md"
+import {FaLinkedin} from "react-icons/fa"
 
 export default function Info() {
     return(
@@ -12,9 +13,10 @@ export default function Info() {
                 <p className="title">JL Founder</p>
                 <p className="email">batman@batmail.com</p>
                 <div className="buttons">
-                    {/* <button className="email--button"><span className="email--icon"><MdEmail/></span>Email</button> */}
-                    <button className="email--button"><span className="email--icon"><MdEmail /></span>Email</button>
-                    <button className="linkedin--button"><LinkedInIcon fontSize="small"/>LinkedIn</button>
+                    
+                    <button className="email--button"><span className="btn--icon"><MdEmail size={20}/></span>Email</button>                    
+                    
+                    <button className="linkedin--button"><span className="btn--icon"><FaLinkedin size={20}/></span>LinkedIn</button>
                 </div>
             </div>
         </div>
