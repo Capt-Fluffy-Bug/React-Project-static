@@ -1,6 +1,4 @@
 import React from "react";
-import EmailIcon from "@mui/icons-material/Email";
-import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import {MdEmail} from "react-icons/md"
 import {FaLinkedin} from "react-icons/fa"
 
