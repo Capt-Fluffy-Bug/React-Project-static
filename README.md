@@ -21,4 +21,4 @@ git clone https://github.com/Capt-Fluffy-Bug/React-Project-static.git
 
 ## Github Pages
 You can also see a running instance of this project by going to 
-` capt-fluffy-bug.github.io/React-Project-static/`
+` https://capt-fluffy-bug.github.io/React-Project-static/`
